@@ -7,3 +7,4 @@ Newfunction - New function added.
 Newwefunction - newer function added.
 
 added a chart function in out branch new_chart.
+updated the function.
